@@ -2,6 +2,8 @@
 instant_test_output
 inference_test_output
 
+events.out.tfevents.*
+
 !/projects/DensePose/doc/images/*.jpg
 
 # compilation and distribution

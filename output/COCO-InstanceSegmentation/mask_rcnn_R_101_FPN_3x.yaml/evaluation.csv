@@ -1,0 +1,22 @@
+,bbox,segm
+AP,0.46870437048277447,0.524902553128098
+AP50,0.7441820182843016,0.8036556015509471
+AP75,0.5570053443738736,0.6541924354799068
+AP-trash,,
+AP-Aluminium,0.0,0.0
+AP-Cardboard,0.0,0.0
+AP-Carton,0.0,0.0
+AP-Glass,0.0,0.0
+AP-HDPE plastic,0.0,0.0
+AP-LDPE plastic,0.0,0.0
+AP-Other metal,0.0,0.0
+AP-Other plastic,0.0,0.0
+AP-PET plastic,7.9679742982071655,8.923343403177666
+AP-PP plastic,0.0,0.0
+AP-PS plastic,0.0,0.0
+AP-PVC plastic,0.0,0.0
+AP-Paper,0.0,0.0
+AP-Plastic bag,0.0,0.0
+AP-Plastic packaging,0.0,0.0
+AP-Snack packaging,0.0,0.0
+AP-Steel,0.0,0.0
